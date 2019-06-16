@@ -1,0 +1,387 @@
+body {
+    background: #f5f5f5;
+    -webkit-font-smoothing: antialiased;
+    font: 14px/1 tahoma, arial, 'Hiragino Sans GB', "microsoft yahei", sans-serif;
+}
+
+a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+button,
+input {
+    font-family: tahoma, arial, 'Hiragino Sans GB', "microsoft yahei", sans-serif;
+}
+
+.clear,
+#top-nav,
+#header,
+#nav,
+#content,
+#footer,
+.topnav-l ul,
+.topnav-r ul,
+.lkn-search-combobox,
+.lkn-search-intelligent li,
+.lkn-receipt-item,
+.lkn-receipt-num,
+.lkn-receipt ul li,
+.lkn-receipt-statistical,
+.lkn-settlement,
+.mainnav-sub-word ol,
+#footer .lkn-cooperations ul,
+.lkn-access-more,
+.crumb-share,
+.normal-crumb,
+.pagination>ul,
+.fouceboxs dl {
+    *zoom: 1;
+}
+
+.clear:after,
+#top-nav:after,
+#header:after,
+#nav:after,
+#content:after,
+#footer:after,
+.topnav-l ul:after,
+.topnav-r ul:after,
+.lkn-search-combobox:after,
+.lkn-search-intelligent li:after,
+.lkn-receipt-item:after,
+.lkn-receipt-num:after,
+.lkn-receipt ul li:after,
+.lkn-receipt-statistical:after,
+.lkn-settlement:after,
+.mainnav-sub-word ol:after,
+#footer .lkn-cooperations ul:after,
+.lkn-access-more:after,
+.crumb-share:after,
+.normal-crumb:after,
+.pagination>ul:after,
+.fouceboxs dl:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.ellipsis,
+.lkn-receipt-word a,
+.fouceboxs dl dt h6 {
+    white-space: nowrap;
+    overflow: hidden;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.user-select,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.scrollBox span,
+.the-sub,
+.the-add {
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.center {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.relative,
+#topnav dd,
+#topnav h2 a,
+.lkn-receipts,
+.lkn-receipt-item,
+.mainnav,
+.mainnav dt a,
+.mainnav-li,
+.mainnav-li h3,
+.mainnav-li h3 i,
+.sidenav,
+.sidenav-li,
+.sidenav-li h3 a,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.lkn-access-title,
+.scrollBox,
+.crumb li,
+.crumb li>a,
+.lkn-entrance>a,
+.fullSlide,
+.fullSlide .bd,
+.recommendations ul li,
+.fouceboxs,
+.fouceboxs .bd,
+.fouceboxs .hd,
+.brands-container>li,
+.lkn-informations dl dt,
+.lkn-informations ul li,
+.baidu-evaluation-photo,
+.baidu-star {
+    position: relative;
+}
+
+.absolute,
+#topnav ul,
+#topnav i,
+.lkn-receipt-num,
+.lkn-receipt,
+.mainnav dt i,
+.mainnav dd,
+.mainnav-li h3 p,
+.mainnav-sub,
+.sidenav-li h3 a span,
+.sidenav-sub,
+.lkn-loginquick-box-arrow,
+.lkn-loginquick-box,
+.loginquick-auto i,
+.loginquick-remember i,
+.service-service7,
+.lkn-ewm-box,
+.lkn-ewm-box-arrow,
+.lkn-access-title h6,
+.lkn-access-title p,
+.scrollBox span,
+.scrollBox .list,
+.crumb li.hover>a i,
+.crumb li.hover p,
+.lkn-entrance,
+.lkn-entrance>a i,
+.fullSlide .bd li a,
+.fullSlide .hd,
+.lkn-informations dl dt a,
+.lkn-informations ul li i,
+.baidu-evaluation-photo1,
+.baidu-evaluation-photo2,
+.baidu-evaluation-num {
+    position: absolute;
+}
+
+.left,
+#topnav dd,
+.topnav-l,
+.topnav-l ul li,
+.topnav-r ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-search-intelligent li div,
+.lkn-search-input,
+.lkn-search-button,
+.lkn-receipt-num-l,
+.lkn-receipt ul li>div,
+.mainnav,
+.mainnav-sub-word,
+.mainnav-sub-word ol h4,
+.mainnav-sub-word ol li,
+.sidenav,
+.sidenav-li,
+#footer .lkn-cooperations ul li,
+.scrollBox .piclist li,
+.scrollBox .list li,
+.crumb li,
+.crumb li.hover p a,
+.the-sub,
+.the-add,
+.the-num,
+.pagination>ul li,
+.recommendations ul li,
+.fouceboxs .bd,
+.fouceboxs .hd,
+.fouceboxs dl dt,
+.fouceboxs dl dd,
+.brands-container>li,
+.brands-logo,
+.brands-word,
+.brands-main>li,
+.lkn-informations dl,
+.baidu-star {
+    float: left;
+}
+
+.right,
+.topnav-r,
+.lkn-search-intelligent li p,
+.lkn-receipts,
+.lkn-receipt-num-r,
+.lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-settlement-btn,
+.loginquick-item a,
+.lkn-access-more a,
+.pagination,
+.brands-link {
+    float: right;
+}
+
+.mt10,
+.lkn-ad {
+    margin-top: 10px;
+}
+
+.mt15,
+.normal-crumb {
+    margin-top: 15px;
+}
+
+.mt20,
+#footer,
+.loginquick-button,
+.lkn-access,
+.crumb-share,
+.pagination,
+.recommendations,
+.brands,
+.brands-container>li {
+    margin-top: 20px;
+}
+
+.mb20,
+.lkn-loginquick-box-title,
+.loginquick-button {
+    margin-bottom: 20px;
+}
+
+.fouceboxs {
+    margin-top: 30px;
+}
+
+.lkn-accesses,
+.category-platform-country,
+.lkn-informations {
+    margin-top: 40px;
+}
+
+#header,
+.lkn-logo img,
+.scrollBox .piclist li p img,
+.recommendations ul li a img,
+.fouceboxs dl dt p img,
+.fouceboxs dl dd a img,
+.brands-main>li>a img {
+    width: 100%;
+}
+
+.scrollBox .piclist li p img,
+.recommendations ul li a img,
+.fouceboxs dl dt p img,
+.fouceboxs dl dd a img,
+.brands-main>li>a img {
+    height: 100%;
+}
+
+#header {
+    background: #fff;
+}
+
+.lkn-search-form fieldset,
+.lkn-search-input,
+.lkn-search-button {
+    border: 0;
+}
+
+/* .topnav-r ul p,
+.lkn-search-button,
+.lkn-receipt-item em,
+.lkn-receipt-price,
+.mainnav-li h3 b,
+.sidenav-li h3 a,
+.fouceboxs .hd li a,
+.brands-main>li b,
+.baidu-evaluation-num {
+    /*font-weight: bold;
+} */
+
+.lkn-search-intelligent li,
+.lkn-search-button,
+.lkn-receipts,
+.mainnav-li h3 b,
+.lkn-service ul li,
+.lkn-loginquick-box-title .right,
+.lkn-loginquick-box-title .topnav-r,
+.lkn-loginquick-box-title .lkn-search-intelligent li p,
+.lkn-search-intelligent li .lkn-loginquick-box-title p,
+.lkn-loginquick-box-title .lkn-receipts,
+.lkn-loginquick-box-title .lkn-receipt-num-r,
+.lkn-loginquick-box-title .lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-receipt-statistical .lkn-loginquick-box-title .lkn-receipt-priceall,
+.lkn-loginquick-box-title .lkn-settlement-btn,
+.lkn-loginquick-box-title .loginquick-item a,
+.loginquick-item .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .lkn-access-more a,
+.lkn-access-more .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .pagination,
+.lkn-loginquick-box-title .brands-link,
+.loginquick-auto,
+.loginquick-remember,
+.loginquick-button,
+.scrollBox span,
+.scrollBox .list li,
+.the-sub,
+.the-add,
+.pagination-btn,
+.fullSlide .hd ul li,
+.lkn-informations dl dt a {
+    cursor: pointer;
+}
+
+.topnav-l ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-receipt-item,
+.lkn-receipt-price,
+.lkn-receipt-delete,
+.lkn-settlement-btn,
+.mainnav-li h3,
+.sidenav-li,
+#footer .copyright,
+#footer .friendlink,
+.lkn-access-title h6,
+.the-num,
+.pagination-skip,
+.fouceboxs .hd,
+.baidu-evaluation-num {
+    text-align: center;
+}
+
+.lkn-search-intelligent li p,
+.fullSlide .hd {
+    text-align: right;
+}
+
+.mainnav-li h3 p,
+.scrollBox .piclist,
+.scrollBox .piclist li p,
+.scrollBox .piclist li h6,
+.scrollBox span,
+.scrollBox .list li,
+.banner,
+.fullSlide,
+.fullSlide .hd ul li,
+.recommendations ul,
+.recommendations ul li a,
+.fouceboxs,
+.fouceboxs .bd,
+.fouceboxs dl dt p,
+.fouceboxs dl dd a,
+.brands-main>li>a,
+.brands-main>li h5 {
+    overflow: hidden;
+}
+
+.loginquick-button:hover,
+.lkn-entrance>a:hover,
+.fullSlide .hd ul .on {
+    background: #a82e7c;
+}

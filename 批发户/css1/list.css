@@ -1,0 +1,915 @@
+/* -------------------------------------------------------------- */
+button,
+input {
+    font-family: tahoma, arial, 'Hiragino Sans GB', "microsoft yahei", sans-serif;
+}
+
+.left,
+#topnav dd,
+.topnav-l,
+.topnav-l ul li,
+.topnav-r ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-search-intelligent li div,
+.lkn-search-input,
+.lkn-search-button,
+.lkn-receipt-num-l,
+.lkn-receipt ul li>div,
+.mainnav,
+.mainnav-sub-word,
+.mainnav-sub-word ol h4,
+.mainnav-sub-word ol li,
+.sidenav,
+.sidenav-li,
+#footer .lkn-cooperations ul li,
+.scrollBox .piclist li,
+.scrollBox .list li,
+.crumb li,
+.crumb li.hover p a,
+.the-sub,
+.the-add,
+.the-num,
+.pagination>ul li,
+.lknboxs-side,
+.lknboxs-main,
+.classified h4,
+.classified ul li,
+.lknboxs-addall,
+.lknboxs-menu ul,
+.lknboxs-menu ul li,
+.priceab,
+.priceab input,
+.pricea-priceb,
+.price-btn,
+.lknboxs-warehouse,
+.lknboxs-warehouse a,
+.lknboxs-pagenum,
+.lknboxs-list>ul li,
+.lknboxs-list-icon img,
+.small-photo a,
+.addto-datas,
+.more-marketable-con div,
+.receipts-table .rt-colorsize img {
+    float: left;
+}
+
+.right,
+.topnav-r,
+.lkn-search-intelligent li p,
+.lkn-receipts,
+.lkn-receipt-num-r,
+.lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-settlement-btn,
+.loginquick-item a,
+.lkn-access-more a,
+.pagination,
+.lknboxs-result,
+.lknboxs-warehouse-pagenum,
+.lknboxs-list-pricenum span,
+.addto-receipts {
+    float: right;
+}
+
+.topnav-l ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-receipt-item,
+.lkn-receipt-price,
+.lkn-receipt-delete,
+.lkn-settlement-btn,
+.mainnav-li h3,
+.sidenav-li,
+#footer .copyright,
+#footer .friendlink,
+.lkn-access-title h6,
+.the-num,
+.pagination-skip,
+.priceab input,
+.addto-receipts,
+.more-marketable,
+.more-marketable-con p,
+.lknboxs-list-states,
+.receipts-table tr td,
+.classification-side dl dt {
+    text-align: center;
+}
+
+.lkn-search-intelligent li,
+.lkn-search-button,
+.lkn-receipts,
+.mainnav-li h3 b,
+.lkn-service ul li,
+.lkn-loginquick-box-title .right,
+.lkn-loginquick-box-title .topnav-r,
+.lkn-loginquick-box-title .lkn-search-intelligent li p,
+.lkn-search-intelligent li .lkn-loginquick-box-title p,
+.lkn-loginquick-box-title .lkn-receipts,
+.lkn-loginquick-box-title .lkn-receipt-num-r,
+.lkn-loginquick-box-title .lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-receipt-statistical .lkn-loginquick-box-title .lkn-receipt-priceall,
+.lkn-loginquick-box-title .lkn-settlement-btn,
+.lkn-loginquick-box-title .loginquick-item a,
+.loginquick-item .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .lkn-access-more a,
+.lkn-access-more .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .pagination,
+.lkn-loginquick-box-title .lknboxs-result,
+.lkn-loginquick-box-title .lknboxs-warehouse-pagenum,
+.lkn-loginquick-box-title .lknboxs-list-pricenum span,
+.lknboxs-list-pricenum .lkn-loginquick-box-title span,
+.lkn-loginquick-box-title .addto-receipts,
+.loginquick-auto,
+.loginquick-remember,
+.loginquick-button,
+.scrollBox span,
+.scrollBox .list li,
+.the-sub,
+.the-add,
+.pagination-btn,
+.empty-filter,
+.price-btn,
+.lknboxs-warehouse a,
+.lknboxs-pagenum i,
+.collection-it,
+.classification-side dl dd ul li a,
+.classification-side .showmore {
+    cursor: pointer;
+}
+
+.relative,
+#topnav dd,
+#topnav h2 a,
+.lkn-receipts,
+.lkn-receipt-item,
+.mainnav,
+.mainnav dt a,
+.mainnav-li,
+.mainnav-li h3,
+.mainnav-li h3 i,
+.sidenav,
+.sidenav-li,
+.sidenav-li h3 a,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.lkn-access-title,
+.scrollBox,
+.crumb li,
+.crumb li>a,
+.lknboxs,
+.classified,
+.empty-filter,
+.lknboxs-warehouse a,
+.lknboxs-list>ul li,
+.lknboxs-list-title,
+.classification-side dl dd ul li a {
+    position: relative;
+}
+
+.user-select,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.scrollBox span,
+.the-sub,
+.the-add,
+.empty-filter,
+.lknboxs-warehouse a,
+.classification-side dl dd ul li a {
+    user-select: none;
+}
+
+.mainnav-li h3 p,
+.scrollBox .piclist,
+.scrollBox .piclist li p,
+.scrollBox .piclist li h6,
+.scrollBox span,
+.scrollBox .list li,
+.big-photo,
+.lknboxs-side-ad a {
+    overflow: hidden;
+}
+
+.scrollBox .piclist li p img,
+.big-photo img,
+.small-photo a img,
+.lknboxs-side-ad a img {
+    height: 100%;
+}
+
+#header,
+.lkn-logo img,
+.scrollBox .piclist li p img,
+.big-photo img,
+.small-photo a img,
+.lknboxs-side-ad a img {
+    width: 100%;
+}
+
+body {
+    background: #f5f5f5;
+    -webkit-font-smoothing: antialiased;
+    font: 14px/1 tahoma, arial, 'Hiragino Sans GB', "microsoft yahei", sans-serif;
+}
+
+html,
+body,
+ul,
+li,
+dl,
+dd,
+p,
+strong {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+
+.mt10,
+.lkn-ad,
+.lknboxs,
+.lknboxs-menu,
+.lknboxs-list-adds,
+.more-marketable {
+    margin-top: 10px;
+}
+
+.mt20,
+#footer,
+.loginquick-button,
+.lkn-access,
+.crumb-share,
+.pagination,
+.lknboxs-addall-result {
+    margin-top: 20px;
+}
+
+.commom-sprite,
+.commom-icon1,
+.commom-icon10,
+.commom-icon10s,
+.commom-icon2,
+.commom-icon3,
+.commom-icon4,
+.commom-icon5,
+.commom-icon7,
+.commom-icon9 {
+    background-image: url(../src/commom-s50680dba8f.png);
+    background-repeat: no-repeat;
+}
+
+img {
+    display: block;
+}
+
+.center {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.lknboxs-side {
+    background: #f5f5f5;
+}
+
+.classification-side dl {
+    width: 1200px;
+    border: 1px solid #dcdcdc;
+    margin-bottom: 30px;
+    /* padding-bottom: 30px; */
+    background: #fff;
+    float: left;
+}
+
+.classification-side dl dt {
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 15px solid #fff;
+    font-size: 15px;
+    background: #eee;
+
+}
+
+style {
+    display: none;
+}
+
+#nav {
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 2px solid #bc338b;
+    background: #fff;
+}
+
+.mainnav_dl dt a:hover,
+.mainnav_dl dt a.hover {
+    color: #fff;
+    background: #bc338b;
+    text-decoration: none;
+    height: 36px;
+}
+
+.classification-side dl dd {
+    margin-top: 15px;
+    padding: 0 0 10px 30px;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #dcdcdc;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.classification-side dl dd strong {
+    margin-top: 10px;
+    font-weight: 600;
+    float: left;
+    margin-right: 10px;
+}
+
+.classification-side dl dd ul {
+    float: left;
+    width: 80%;
+    height: 30px;
+    overflow: hidden;
+}
+
+.classification-side dl dd ul li {
+    width: 150px;
+    display: block;
+    cursor: default;
+    float: left;
+    line-height: 30px;
+}
+
+.classification-side dl dd ul li a {
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    padding-left: 20px;
+}
+
+.filterMore,
+.filterMoreH {
+    border: 1px solid #f2f2f2;
+    font-size: 12px;
+    display: block;
+    padding: 8px 6px;
+    cursor: pointer;
+    float: right;
+    margin-right: 10px;
+}
+
+.downArrow {
+    position: relative;
+    width: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 4px;
+}
+
+.downArrow:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: -4px;
+    border-color: #fff transparent transparent transparent;
+    margin-left: -4px;
+    border-width: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    border-style: solid dashed dashed dashed;
+    z-index: 2;
+}
+
+.downArrow:after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: -3px;
+    border-color: #000 transparent transparent transparent;
+    margin-left: -4px;
+    border-width: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    border-style: solid dashed dashed dashed;
+}
+
+/* -------------------------------------------------------- */
+.lknboxs-main {
+    width: 1200px;
+    background: #fff;
+}
+
+.classified {
+    min-height: 48px;
+    padding: 0 15px;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.classified h4 {
+    margin-top: 15px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+.classified ul {
+    margin-right: 80px;
+    padding-bottom: 12px;
+    overflow: auto;
+    margin-left: 80px;
+}
+
+.empty-filter {
+    top: 17px;
+    right: 15px;
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    padding-left: 20px;
+}
+
+.lknboxs-box {
+    padding: 0 8px 40px 8px;
+}
+
+.lknboxs-addall {
+    color: #e52d88;
+}
+
+.lknboxs-addall img {
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 10px;
+}
+
+.lknboxs-addall-result {
+    height: 18px;
+    line-height: 18px;
+}
+
+.lknboxs-menu {
+    height: 34px;
+    line-height: 34px;
+    border: 1px solid #dcdcdc;
+}
+
+.lknboxs-menu ul {
+    margin: -1px 0 -1px -1px;
+}
+
+.lknboxs-menu ul li {
+
+    transition: .2s;
+    height: 36px;
+}
+
+.lknboxs-menu ul li.on {
+    background: #bc338b;
+}
+
+.lknboxs-menu ul li.on a {
+    color: #fff;
+}
+
+.lknboxs-menu ul li a {
+    transition: .2s;
+    padding: 0 20px;
+}
+
+.lknboxs-result b {
+    font-size: 16px;
+    color: #e52d88;
+}
+
+/* ---------------------------------------------------------------------------- */
+.priceab {
+    margin-left: 20px;
+}
+
+.priceab input {
+    width: 56px;
+    height: 22px;
+    line-height: 22px;
+    padding: 0;
+    border: 1px solid #dcdcdc;
+    color: #999;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.pricea-priceb {
+    margin: 0 5px;
+}
+
+.commom-icon1 {
+    background-position: 0 -21px;
+    height: 5px;
+    width: 9px;
+}
+
+.select-wrapper {
+    font: normal 14px '\5FAE\8F6F\96C5\9ED1';
+    width: 70px;
+    height: 36px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    *display: inline;
+    *float: left;
+    *margin-right: 10px;
+    background: #fff;
+    border-radius: 0px;
+    border: 1px solid #e3e3e3;
+    float: left;
+}
+
+.select-wrapper.focus {
+    border: 1px solid #bc338b;
+}
+
+.select-button {
+    font: normal 14px '\5FAE\8F6F\96C5\9ED1';
+    width: 70px;
+    height: 34px;
+    border: 0;
+    border-radius: 3px;
+    background: #fff;
+    cursor: pointer;
+    padding: 0 26px 0 10px;
+    overflow: hidden;
+    text-align: left;
+    outline: none;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+}
+
+.select-down {
+    position: absolute;
+    top: 21px;
+    right: 12px;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    font-size: 0;
+    border-color: #333 transparent transparent transparent;
+    border-style: solid;
+    border-width: 6px;
+}
+
+.disabled {
+    color: #cccccc;
+}
+
+.select-list {
+    width: 50px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 0 3px #ddd;
+    border-radius: 3px;
+    display: none;
+    z-index: 2;
+    position: absolute;
+    left: -1px;
+    top: 35px;
+    overflow: hidden;
+}
+
+.select-list ul {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    line-height: 34px;
+    max-height: 240px;
+}
+
+.select-list ul li {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+}
+
+.select-list ul li.selected,
+.select-list ul li:hover {
+
+    background: #fff;
+    color: #bc338b;
+}
+
+.select-button-disable {
+    color: #ccc;
+    width: 50px;
+    height: 34px;
+    border: 1px solid #e3e3e3;
+    border-radius: 3px;
+    background: #fff;
+    cursor: pointer;
+    padding-left: 10px;
+    overflow: hidden;
+    text-align: left;
+    outline: none;
+}
+
+.select-down-disable {
+    color: #ccc;
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    line-height: 34px;
+}
+
+.select-wrapper {
+    font: normal 14px '\5FAE\8F6F\96C5\9ED1';
+    width: 70px;
+    height: 36px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    *display: inline;
+    *float: left;
+    *margin-right: 10px;
+    background: #fff;
+    border-radius: 0px;
+    border: 1px solid #e3e3e3;
+    float: left;
+}
+
+.select-wrapper.focus {
+    border: 1px solid #bc338b;
+}
+
+.select-button {
+    font: normal 14px '\5FAE\8F6F\96C5\9ED1';
+    width: 70px;
+    height: 34px;
+    border: 0;
+    border-radius: 3px;
+    background: #fff;
+    cursor: pointer;
+    padding: 0 26px 0 10px;
+    overflow: hidden;
+    text-align: left;
+    outline: none;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+}
+
+.select-down {
+    position: absolute;
+    top: 21px;
+    right: 12px;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    font-size: 0;
+    border-color: #333 transparent transparent transparent;
+    border-style: solid;
+    border-width: 6px;
+}
+
+.disabled {
+    color: #cccccc;
+}
+
+.select-list {
+    width: 50px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 0 3px #ddd;
+    border-radius: 3px;
+    display: none;
+    z-index: 2;
+    position: absolute;
+    left: -1px;
+    top: 35px;
+    overflow: hidden;
+}
+
+.select-list ul {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 240px;
+}
+
+.select-list ul li {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+    text-overflow: ellipsis;
+}
+
+.select-list ul li.selected,
+.select-list ul li:hover {
+    background: #fff;
+    color: #bc338b;
+}
+
+.select-button-disable {
+    color: #ccc;
+    width: 50px;
+    height: 34px;
+    border: 1px solid #e3e3e3;
+    border-radius: 3px;
+    background: #fff;
+    cursor: pointer;
+    padding-left: 10px;
+    overflow: hidden;
+    text-align: left;
+    outline: none;
+}
+
+.select-down-disable {
+    color: #ccc;
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    line-height: 34px;
+}
+
+.nav_box {
+    margin: 2px 0px 10px 14px;
+    width: 47%;
+    float: left;
+    min-height: 192px;
+}
+
+.nav_box h4 {
+    margin-left: 6px;
+}
+
+.box ul li {
+    list-style: none;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    border: 1px dashed gainsboro;
+    color: gray;
+    font-size: 12px;
+    float: left;
+    margin: 4px;
+    text-align: center;
+}
+
+/* ---------------------------------------------------------- */
+.lknboxs-pagenum i {
+    display: inline-block;
+}
+
+.lknboxs-pagenum b {
+    color: #e52d88;
+    margin-left: 5px;
+}
+
+.lknboxs-pagenum span {
+    margin-right: 5px;
+}
+
+.classification-side dl dd ul li a i {
+    display: block;
+    top: 1px;
+    float: left;
+    left: 0;
+
+}
+
+.commom-icon3 {
+    background-position: 0 -33px;
+    height: 13px;
+    width: 13px;
+    margin: 0 2px
+}
+
+/* ----------------------------------------------------------- */
+#search_result {
+    padding-bottom: 40px;
+}
+
+#search_result li {
+    width: 217px;
+    height: 433px;
+    border: 1px solid #dcdcdc;
+    margin: 12px 11px 0 0;
+    float: left;
+}
+.content{background-color: #000}
+.collection-it {
+    top: 10px;
+    right: 10px;
+    display: none;
+}
+
+.classification-c7 {
+    background-position: -22px 0;
+    height: 17px;
+    width: 19px;
+}
+
+.big-photo {
+    width: 217px;
+    height: 217px;
+}
+
+.small-photo {
+    padding: 10px 0;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.small-photo a {
+    width: 33px;
+    height: 33px;
+    border: 1px solid #fff;
+    margin-left: 7px;
+}
+
+.small-photo a:hover,
+.small-photo a.smp {
+    border: 1px solid #bc338b;
+}
+
+.lknboxs-list-con {
+    padding: 8px 8px 0;
+}
+
+.lknboxs-list-pricenum {
+    line-height: 14px;
+}
+
+.lknboxs-list-pricenum b {
+    color: #e52d88;
+}
+
+.lknboxs-list-pricenum span {
+    color: #999;
+    font-size: 12px;
+    max-width: 100px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+}
+
+.lknboxs-list-title {
+    height: 36px;
+    line-height: 18px;
+    margin-top: 8px;
+    font-size: 13px;
+    text-indent: initial;
+}
+
+.addto-datas {
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    -webkit-transition: .2s;
+    transition: .2s;
+    width: 55px;
+    height: 24px;
+    line-height: 24px;
+    padding-left: 35px;
+    background: #1c3a8b url(src/adddata1.png) 10px center no-repeat;
+    color: #fff;
+}
+
+.addto-receipts {
+    border-radius: 2px;
+    transition: .2s;
+    width: 105px;
+    height: 24px;
+    line-height: 24px;
+    background: #bc338b;
+    color: #fff;
+}
+
+.more-marketable {
+    border-radius: 2px;
+    height: 20px;
+    line-height: 20px;
+    border: 1px solid #dcdcdc;
+    color: #999;
+    background: #eee;
+}
+
+.lknboxs-list-states {
+    margin-top: 8px;
+    color: #555;
+    font-size: 12px;
+}

@@ -1,0 +1,753 @@
+.mt20,
+#footer,
+.loginquick-button,
+.lkn-access,
+.crumb-share,
+.pagination,
+.detail-style {
+    margin-top: 20px;
+}
+
+.mt10,
+.lkn-ad,
+.detail,
+.detail-title,
+.detail-activity li,
+.similar-product h6 {
+    margin-top: 10px;
+}
+
+.mt15,
+.normal-crumb,
+.detail-msg,
+.detail-price-table,
+.detail-warn,
+.detail-marketable,
+.detail-warehouse,
+.detail-activity {
+    margin-top: 15px;
+}
+
+.left,
+#topnav dd,
+.topnav-l,
+.topnav-l ul li,
+.topnav-r ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-search-intelligent li div,
+.lkn-search-input,
+.lkn-search-button,
+.lkn-receipt-num-l,
+.lkn-receipt ul li>div,
+.mainnav,
+.mainnav-sub-word,
+.mainnav-sub-word ol h4,
+.mainnav-sub-word ol li,
+.sidenav,
+.sidenav-li,
+#footer .lkn-cooperations ul li,
+.scrollBox .piclist li,
+.scrollBox .list li,
+.crumb li,
+.crumb li.hover p a,
+.the-sub,
+.the-add,
+.the-num,
+.pagination>ul li,
+.detail-gallery,
+.zoom-pic .zoom-icon li,
+.zoomlist-ul li,
+.exclusive-collection-lowerprice a,
+.the-packet,
+.customize-btn,
+.detail-info,
+.detail-msg li,
+.detail-marketable ul,
+.detail-marketable ul li,
+.detail-style dl dt,
+.detail-style dl dd,
+.shops div,
+.similar-product ul li,
+.products-side,
+.products-main,
+.products-main .hd li,
+.purchaser-amount,
+.purchaser-name,
+.purchaser-size,
+.purchaser-time,
+.purchaserinfo-title li,
+.satisfaction p,
+.satisfaction b,
+.satisfaction ul li,
+.lkn-star ul li,
+.lowerprice-box p,
+.lowerprice-box-price,
+.lowerprice-box-website,
+.lowerprice-box-btn,
+.receipts-table .rt-colorsize img {
+    float: left;
+}
+
+.lkn-search-intelligent li,
+.lkn-search-button,
+.lkn-receipts,
+.mainnav-li h3 b,
+.lkn-service ul li,
+.lkn-loginquick-box-title .right,
+.lkn-loginquick-box-title .topnav-r,
+.lkn-loginquick-box-title .lkn-search-intelligent li p,
+.lkn-search-intelligent li .lkn-loginquick-box-title p,
+.lkn-loginquick-box-title .lkn-receipts,
+.lkn-loginquick-box-title .lkn-receipt-num-r,
+.lkn-loginquick-box-title .lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-receipt-statistical .lkn-loginquick-box-title .lkn-receipt-priceall,
+.lkn-loginquick-box-title .lkn-settlement-btn,
+.lkn-loginquick-box-title .loginquick-item a,
+.loginquick-item .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .lkn-access-more a,
+.lkn-access-more .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .pagination,
+.lkn-loginquick-box-title .exclusive-collection-lowerprice a.detail-lowerprice,
+.exclusive-collection-lowerprice .lkn-loginquick-box-title a.detail-lowerprice,
+.lkn-loginquick-box-title .detail-style-addsub .the-addsub,
+.detail-style-addsub .lkn-loginquick-box-title .the-addsub,
+.lkn-loginquick-box-title .detail-style-addsub .want-customize,
+.detail-style-addsub .lkn-loginquick-box-title .want-customize,
+.lkn-loginquick-box-title .shops button,
+.shops .lkn-loginquick-box-title button,
+.lkn-loginquick-box-title .products-side-priceamount span,
+.products-side-priceamount .lkn-loginquick-box-title span,
+.loginquick-auto,
+.loginquick-remember,
+.loginquick-button,
+.scrollBox span,
+.scrollBox .list li,
+.the-sub,
+.the-add,
+.pagination-btn,
+.zoomlists span,
+.zoomlist-ul li,
+.detail-style dl dt,
+.up-down,
+.shops button,
+.products-main .hd li,
+.lkn-star ul li,
+.lowerprice-box-btn {
+    cursor: pointer;
+}
+
+.topnav-l ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-receipt-item,
+.lkn-receipt-price,
+.lkn-receipt-delete,
+.lkn-settlement-btn,
+.mainnav-li h3,
+.sidenav-li,
+#footer .copyright,
+#footer .friendlink,
+.lkn-access-title h6,
+.the-num,
+.pagination-skip,
+.zoomlists span,
+.customize-btn,
+.detail-accessories,
+.detail-style-addsub .want-customize,
+.products-main .hd li,
+.receipts-table tr td {
+    text-align: center;
+}
+
+#header,
+.lkn-logo img,
+.scrollBox .piclist li p img,
+.zoom-pic img,
+.similar-product p img,
+.products-side dl dd>a img,
+.basic-img img {
+    width: 100%;
+}
+
+.scrollBox .piclist li p img,
+.zoom-pic img,
+.similar-product p img,
+.products-side dl dd>a img {
+    height: 100%;
+}
+
+.mainnav-li h3 p,
+.scrollBox .piclist,
+.scrollBox .piclist li p,
+.scrollBox .piclist li h6,
+.scrollBox span,
+.scrollBox .list li,
+.zoom-pic,
+.zoomlist-con,
+.similar-product p,
+.products-side dl dd>a {
+    overflow: hidden;
+}
+
+button,
+input {
+    font-family: tahoma, arial, 'Hiragino Sans GB', "microsoft yahei", sans-serif;
+}
+
+.detail-sprite,
+.detail-d1,
+.detail-d10,
+.detail-d11,
+.detail-d12,
+.detail-d13,
+.detail-d14,
+.detail-d15,
+.detail-d16,
+.detail-d17,
+.detail-d18,
+.detail-d2,
+.detail-d3,
+.detail-d4,
+.detail-d5,
+.detail-d6,
+.detail-d7,
+.detail-d8,
+.detail-d9 {
+    background-image: url(src/detail-s577894c6d6.png);
+    background-repeat: no-repeat;
+}
+
+html,
+body,
+ul,
+li,
+dl,
+dd,
+p,
+strong {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+
+.relative,
+#topnav dd,
+#topnav h2 a,
+.lkn-receipts,
+.lkn-receipt-item,
+.mainnav,
+.mainnav dt a,
+.mainnav-li,
+.mainnav-li h3,
+.mainnav-li h3 i,
+.sidenav,
+.sidenav-li,
+.sidenav-li h3 a,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.lkn-access-title,
+.scrollBox,
+.crumb li,
+.crumb li>a,
+.zoom-pic,
+.zoomlists,
+.zoomlist-con,
+.exclusive-collection-lowerprice a,
+.up-down,
+.shops,
+.products,
+.products-side dl dt,
+.hd-arrow,
+.purchaserinfo-con>ul>li,
+.lkn-star ul li {
+    position: relative;
+}
+
+.right,
+.topnav-r,
+.lkn-search-intelligent li p,
+.lkn-receipts,
+.lkn-receipt-num-r,
+.lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-settlement-btn,
+.loginquick-item a,
+.lkn-access-more a,
+.pagination,
+.exclusive-collection-lowerprice a.detail-lowerprice,
+.detail-style-addsub .the-addsub,
+.detail-style-addsub .want-customize,
+.shops button,
+.products-side-priceamount span {
+    float: right;
+}
+
+a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.clear:after,
+#top-nav:after,
+#header:after,
+#nav:after,
+#content:after,
+#footer:after,
+.topnav-l ul:after,
+.topnav-r ul:after,
+.lkn-search-combobox:after,
+.lkn-search-intelligent li:after,
+.lkn-receipt-item:after,
+.lkn-receipt-num:after,
+.lkn-receipt ul li:after,
+.lkn-receipt-statistical:after,
+.lkn-settlement:after,
+.mainnav-sub-word ol:after,
+#footer .lkn-cooperations ul:after,
+.lkn-access-more:after,
+.crumb-share:after,
+.normal-crumb:after,
+.pagination>ul:after,
+.detail:after,
+.exclusive-collection-lowerprice:after,
+.detail-msg:after,
+.detail-marketable:after,
+.detail-style ul li:after,
+.detail-style-addsub:after,
+.shops:after,
+.similar-product ul:after,
+.products:after,
+.products-side-priceamount:after,
+.products-main .hd:after,
+.basic-info ul:after,
+.satisfaction:after,
+.lkn-star ul:after,
+.lowerprice-box li:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* ----------------------------------------------------------- */
+#nav {
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 2px solid #bc338b;
+    background: #fff;
+}
+
+.mainnav_dl dt a:hover,
+.mainnav_dl dt a.hover {
+    color: #fff;
+    background: #bc338b;
+    text-decoration: none;
+    height: 36px;
+}
+
+/* ---------------------------------------------------------- */
+.center {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.crumb-share {
+    height: 28px;
+}
+
+.crumb li {
+    height: 25px;
+    z-index: 1;
+}
+
+.crumb li>a {
+    height: 14px;
+    margin: 6px 0 0 -1px;
+    padding: 0 12px;
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+    z-index: 2;
+}
+
+.crumb li:first-child a {
+    padding-left: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.crumb li.hover>a {
+    padding: 0 30px 0 12px;
+}
+
+.crumb li.hover>a i {
+    top: 6px;
+    right: 12px;
+}
+
+.crumb li.hover p {
+    top: 24px;
+    left: -1px;
+    display: none;
+    width: 150px;
+    padding-bottom: 15px;
+    border: 1px solid #999;
+    background: #fff;
+}
+
+.crumb li.hover p a {
+    display: inline-block;
+    margin: 10px 10px 0;
+}
+
+.detail {
+    background: #fff;
+    padding: 15px 25px 30px 15px;
+}
+
+.zoom-pic {
+    width: 448px;
+    height: 448px;
+    border: 1px solid #e5e5e5;
+}
+
+.zoom-pic .zoom-icon {
+    top: 0;
+    right: 0;
+    z-index: 1;
+    font-size: 0;
+}
+
+.zoomlists {
+    padding: 20px 30px 0 20px;
+}
+
+.zoomlists span {
+    user-select: none;
+    top: 45px;
+    display: block;
+    z-index: 1;
+}
+
+.zoomlists .prev {
+    left: 5px;
+}
+
+.zoomlist-con {
+    width: 400px;
+    height: 70px;
+}
+
+.zoomlist-ul {
+    top: 0;
+    left: 0;
+}
+
+.zoomlist-ul li {
+    margin-left: 10px;
+    border: 2px solid #fff;
+}
+
+.zoomlist-ul img {
+    display: block;
+    width: 66px;
+    height: 66px;
+}
+
+.zoomlist-ul li.mouseover {
+    border: 2px solid #bc338b;
+}
+
+.zoomlists .next {
+    right: 5px;
+}
+
+.exclusive-collection-lowerprice {
+    margin-top: 25px;
+}
+
+.exclusive-collection-lowerprice a {
+    height: 20px;
+    line-height: 20px;
+}
+
+.exclusive-collection-lowerprice a span {
+    top: 2px;
+    left: 0;
+}
+
+.detail-collection {
+    margin-left: 66px;
+    padding-left: 20px;
+}
+
+.the-packet {
+
+    border-radius: 2px;
+
+    transition: .2s;
+    margin: 40px 0 0 88px;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 62px;
+    background: #bc338b url(src/adddata1.png) 30px center no-repeat;
+    color: #fff;
+}
+.detail-d2,.detail-d1{text-align: center;line-height: 22px;}
+.detail-info {
+    width: 680px;
+    margin-left: 30px;
+}
+
+.detail-title {
+    font-size: 18px;
+}
+
+.detail-msg li {
+    margin-right: 40px;
+}
+
+.detail-price-table {
+    width: 680px;
+    border-bottom: 10px solid #fff;
+}
+
+.detail-price-table th {
+    width: 33.333333333%;
+    height: 46px;
+    font-size: 24px;
+    color: #e52d88;
+}
+
+.detail-price-table th span {
+    font-size: 14px;
+    color: #999;
+    text-decoration: line-through;
+}
+
+#mypifajia {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.detail-style-title {
+    padding: 10px 0 5px;
+    border-top: 1px solid #e5e5e5;
+}
+
+.detail-style ul {
+    padding-bottom: 20px;
+}
+
+.detail-style ul li {
+    height: 35px;
+    padding-bottom: 8px;
+}
+
+.detail-style dl {
+    height: 35px;
+}
+
+.detail-style dl dt {
+    padding-right: 5px;
+}
+
+.detail-style dl dt img {
+    -moz-transition: ease-out .1s;
+    -o-transition: ease-out .1s;
+    -webkit-transition: ease-out .1s;
+    transition: ease-out .1s;
+    width: 33px;
+    height: 33px;
+    border: 1px solid #fff;
+}
+
+.detail-style dl dd {
+    height: 34px;
+    line-height: 34px;
+    border-bottom: 1px dotted #e5e5e5;
+}
+
+.aline {
+    height: 1px;
+    background: #e5e5e5;
+}
+
+.up-down {
+    width: 60px;
+    height: 20px;
+    margin: -1px 0 0 50px;
+    border: 1px solid #e5e5e5;
+    border-top: 1px solid #fff;
+}
+
+.up-down div {
+    top: 5px;
+    left: 20px;
+}
+
+.shops {
+    margin-top: 25px;
+    padding: 25px 50px;
+    border: 1px solid #e5e5e5;
+}
+
+.shops button.shops-now {
+    background: #e2a302;
+}
+
+.shops button {
+    -moz-transition: ease-out .2s;
+    -o-transition: ease-out .2s;
+    -webkit-transition: ease-out .2s;
+    transition: ease-out .2s;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    background: #bc338b;
+    width: 132px;
+    height: 34px;
+    font-size: 18px;
+}
+
+.diviconfont {
+    float: left;
+    width: 100%;
+}
+
+.diviconfont div {
+    float: left;
+    text-align: center;
+    line-height: 35px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+.iconfont {
+    font-size: 24px;
+    color: #bc338b;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.lowerprice-box {
+    display: none;
+    padding: 50px 50px 0;
+}
+
+.lowerprice-box li {
+    margin-bottom: 20px;
+}
+
+.lowerprice-box p {
+    width: 95px;
+    line-height: 26px;
+    padding-right: 5px;
+    text-align: right;
+}
+
+.lowerprice-box-price,
+.lowerprice-box-website {
+    width: 100px;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 0 0 10px;
+    border: 1px solid #dcdcdc;
+    color: #999;
+}
+
+.customize-btn {
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    -webkit-transition: .2s;
+    transition: .2s;
+    margin: 40px 0 0 10px;
+    width: 132px;
+    height: 30px;
+    line-height: 30px;
+    background: #bc338b;
+    color: #fff;
+}
+
+
+
+.detail-style-addsub .the-addsub {
+    width: 93px;
+    margin-top: 6px;
+}
+
+.detail-d2 {
+    background-position: -22px -71px;
+    height: 22px;
+    width: 22px;
+}
+
+.the-num {
+    width: 68px;
+    height: 20px;
+    margin: 0 2px;
+    padding: 0;
+    line-height: 20px;
+    border: 1px solid #dcdcdc;
+}
+
+.detail-style-addsub .the-num {
+    width: 43px;
+}
+
+.detail-d1 {
+    background-position: -22px -93px;
+    height: 22px;
+    width: 22px;
+}
+
+.detail-style-addsub {
+    width: 100px;
+}
+
+.detail-style-model {
+    width: 145px;
+}
+
+.detail-style-size {
+    width: 150px;
+}
+
+.detail-accessories {
+    width: 30px;
+}
+.zoom-pic div {
+    width: 160px;
+    height: 160px;
+    background: blue;
+    position: absolute;
+    opacity: .2;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    border: 1px solid white;
+    display: none;
+}
+.bigImg {
+    display: none;
+    width: 448px;
+    height: 448px;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    z-index: 50;
+    
+    /* background: blue; */
+}

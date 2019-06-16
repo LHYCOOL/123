@@ -1,0 +1,655 @@
+#header,
+.lkn-logo img,
+.scrollBox .piclist li p img,
+.myreceipt-table,
+.myreceipt-photo img {
+    width: 100%;
+}
+
+.left,
+#topnav dd,
+.topnav-l,
+.topnav-l ul li,
+.topnav-r ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-search-intelligent li div,
+.lkn-search-input,
+.lkn-search-button,
+.lkn-receipt-num-l,
+.lkn-receipt ul li>div,
+.mainnav,
+.mainnav-sub-word,
+.mainnav-sub-word ol h4,
+.mainnav-sub-word ol li,
+.sidenav,
+.sidenav-li,
+#footer .lkn-cooperations ul li,
+.scrollBox .piclist li,
+.scrollBox .list li,
+.crumb li,
+.crumb li.hover p a,
+.the-sub,
+.the-add,
+.the-num,
+.pagination>ul li,
+.receipt-process-title,
+.receipt-process-bar ul li,
+.dropdown,
+.myreceipt-item span,
+.myreceipt-item em,
+.myreceipt-item-sku,
+.myreceipt-item-amount,
+#UploadForm,
+.input-text,
+.link-btn,
+.file-uploader-wrap,
+.import-upload,
+.download-model,
+.myreceipt-checks,
+.myreceipt-check,
+.myreceipt-photo,
+.myreceipt-goodsless-input,
+.myreceipt-goodsless-btn,
+.myreceipt-settlements p,
+.myreceipt-settlements ul,
+.myreceipt-settlements li,
+.myreceipt-checks-all,
+.myreceipt-deletes-all,
+.receipts-table .rt-colorsize img {
+    float: left;
+}
+
+.topnav-r ul p,
+.lkn-search-button,
+.lkn-receipt-item em,
+.lkn-receipt-price,
+.mainnav-li h3 b,
+.sidenav-li h3 a,
+.receipt-process-title,
+.myreceipt-checks {
+    font-weight: bold;
+}
+
+.right,
+.topnav-r,
+.lkn-search-intelligent li p,
+.lkn-receipts,
+.lkn-receipt-num-r,
+.lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-settlement-btn,
+.loginquick-item a,
+.lkn-access-more a,
+.pagination,
+.receipt-process-bar,
+.myreceipt-tables-t a {
+    float: right;
+}
+
+.relative,
+#topnav dd,
+#topnav h2 a,
+.lkn-receipts,
+.lkn-receipt-item,
+.mainnav,
+.mainnav dt a,
+.mainnav-li,
+.mainnav-li h3,
+.mainnav-li h3 i,
+.sidenav,
+.sidenav-li,
+.sidenav-li h3 a,
+.lkn-service ul li,
+.loginquick-auto,
+.loginquick-remember,
+.lkn-access-title,
+.scrollBox,
+.crumb li,
+.crumb li>a,
+.receipt-process-bar ul li,
+.dropdown,
+.dropdown-main,
+.file-uploader-wrap,
+.myreceipt-checks,
+.myreceipt-tables>li,
+.myreceipt-tables-t a,
+.myreceipt-check,
+.myreceipt-settlements,
+.myreceipt-checks-all {
+    position: relative;
+}
+
+.absolute,
+#topnav ul,
+#topnav i,
+.lkn-receipt-num,
+.lkn-receipt,
+.mainnav dt i,
+.mainnav dd,
+.mainnav-li h3 p,
+.mainnav-sub,
+.sidenav-li h3 a span,
+.sidenav-sub,
+.lkn-loginquick-box-arrow,
+.lkn-loginquick-box,
+.loginquick-auto i,
+.loginquick-remember i,
+.service-service7,
+.lkn-ewm-box,
+.lkn-ewm-box-arrow,
+.lkn-access-title h6,
+.lkn-access-title p,
+.scrollBox span,
+.scrollBox .list,
+.crumb li.hover>a i,
+.crumb li.hover p,
+.receipt-process-bar i,
+.receipt-process-bar p,
+.dropdown-box,
+.file-uploader-wrap-fake,
+.file-uploader,
+.myreceipt-checks i,
+.myreceipt-tables-t a i,
+.myreceipt-check i,
+.myreceipt-tables-b,
+.myreceipt-checks-all i {
+    position: absolute;
+}
+
+.lkn-search-intelligent li,
+.lkn-search-button,
+.lkn-receipts,
+.mainnav-li h3 b,
+.lkn-service ul li,
+.lkn-loginquick-box-title .right,
+.lkn-loginquick-box-title .topnav-r,
+.lkn-loginquick-box-title .lkn-search-intelligent li p,
+.lkn-search-intelligent li .lkn-loginquick-box-title p,
+.lkn-loginquick-box-title .lkn-receipts,
+.lkn-loginquick-box-title .lkn-receipt-num-r,
+.lkn-loginquick-box-title .lkn-receipt-statistical .lkn-receipt-priceall,
+.lkn-receipt-statistical .lkn-loginquick-box-title .lkn-receipt-priceall,
+.lkn-loginquick-box-title .lkn-settlement-btn,
+.lkn-loginquick-box-title .loginquick-item a,
+.loginquick-item .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .lkn-access-more a,
+.lkn-access-more .lkn-loginquick-box-title a,
+.lkn-loginquick-box-title .pagination,
+.lkn-loginquick-box-title .receipt-process-bar,
+.lkn-loginquick-box-title .myreceipt-tables-t a,
+.myreceipt-tables-t .lkn-loginquick-box-title a,
+.loginquick-auto,
+.loginquick-remember,
+.loginquick-button,
+.scrollBox span,
+.scrollBox .list li,
+.the-sub,
+.the-add,
+.pagination-btn,
+.dropdown-main,
+.dropdown-box li,
+.myreceipt-item-add,
+.file-uploader-wrap-fake,
+.file-uploader,
+.import-upload,
+.myreceipt-checks,
+.myreceipt-adddata,
+.myreceipt-adddatas,
+.myreceipt-check,
+.myreceipt-goodsless-btn,
+.myreceipt-tables-b,
+.myreceipt-checks-all,
+.myreceipt-deletes-all,
+.myreceipt-settlements-btn,
+.myreceipt-settlements-shipping {
+    cursor: pointer;
+}
+
+.topnav-l ul li,
+.topnav-r ul p,
+.topnav-r ul div,
+.lkn-receipt-item,
+.lkn-receipt-price,
+.lkn-receipt-delete,
+.lkn-settlement-btn,
+.mainnav-li h3,
+.sidenav-li,
+#footer .copyright,
+#footer .friendlink,
+.lkn-access-title h6,
+.the-num,
+.pagination-skip,
+.link-btn,
+.myreceipt-table-item td,
+.myreceipt-table td,
+.myreceipt-goodsless-input,
+.myreceipt-tables-b,
+.receipts-table tr td {
+    text-align: center;
+}
+
+a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+/* ----------------------------------------------------- */
+#header {
+    height: 150px;
+    background: #fff;
+}
+
+.header {
+    border-bottom: 2px solid #bc338b;
+    margin-bottom: 15px;
+}
+
+.center {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.lkn-logo {
+    width: 200px;
+    height: 150px;
+}
+
+.lkn-logo img {
+    margin-top: 52px;
+}
+
+.receipt-process-title {
+    margin: 78px 0 0 10px;
+    font-size: 16px;
+}
+
+.receipt-process-bar ul {
+    margin-top: 70px;
+}
+
+.receipt-process-bar ul li {
+    width: 120px;
+    height: 2px;
+    background: #e5e5e5;
+}
+
+.receipt-process-bar ul li.on {
+    background: #00c500;
+    color: #00c500;
+}
+
+.receipt-process-bar ul li.sp {
+    width: 24px;
+    background: #fff;
+}
+
+.receipt-process-bar ul li.on i {
+    background: #fff url(src/receipt_process2.png) 0 0 no-repeat;
+}
+
+.receipt-process-bar i {
+    display: block;
+    left: 0;
+    top: -5px;
+    width: 12px;
+    height: 12px;
+    background: #fff url(src/receipt_process1.png) 0 0 no-repeat;
+}
+
+.receipt-process-bar p {
+    top: 15px;
+    left: -30px;
+}
+
+.center {
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.float-wrap {
+    background: white
+}
+
+.myreceipt-item {
+    height: 26px;
+    line-height: 26px;
+    margin-top: 15px;
+    padding: 15px 20px;
+    border: 1px solid #c6c6c6;
+}
+
+.myreceipt-item-sku,
+.myreceipt-item-amount {
+    width: 168px;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 0 0 10px;
+    border: 1px solid #c6c6c6;
+}
+
+.myreceipt-item em {
+    margin-left: 20px;
+}
+
+.myreceipt-item-sku,
+.myreceipt-item-amount {
+    width: 168px;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 0 0 10px;
+    border: 1px solid #c6c6c6;
+}
+
+.myreceipt-item-amount {
+    width: 68px;
+}
+
+.myreceipt-item-add {
+    -moz-transition: ease-out .2s;
+    -o-transition: ease-out .2s;
+    -webkit-transition: ease-out .2s;
+    transition: ease-out .2s;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    background: #bc338b;
+    width: 66px;
+    height: 26px;
+    margin-left: 20px;
+    background: #1c3a8b;
+}
+
+.file-uploader-wrap {
+    width: 280px;
+    height: 26px;
+    cursor: pointer;
+}
+
+.file-uploader-wrap-fake {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 280px;
+    height: 26px;
+}
+
+.webuploader-container {
+    position: relative;
+}
+
+.webuploader-pick {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    background: #00b7ee;
+    /* padding: 10px 15px; */
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.input-text {
+    width: 198px;
+    height: 24px;
+    line-height: 24px;
+    padding: 0;
+    vertical-align: middle;
+    border: 1px solid #c6c6c6;
+    background: #fff;
+}
+
+.link-btn {
+    display: block;
+    width: 80px;
+    height: 26px;
+    line-height: 26px;
+    vertical-align: middle;
+    color: #fff;
+    background: #999;
+}
+
+.webuploader-element-invisible {
+    position: absolute !important;
+
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+.import-upload {
+    -moz-transition: ease-out .2s;
+    -o-transition: ease-out .2s;
+    -webkit-transition: ease-out .2s;
+    transition: ease-out .2s;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    background: #bc338b;
+    width: 80px;
+    height: 26px;
+    margin-left: 10px;
+    background: #e52d88;
+}
+
+.download-model {
+    margin-left: 20px;
+    color: #359cd8;
+}
+
+.myreceipt dl {
+    padding-bottom: 50px;
+}
+
+.myreceipt-settlements {
+    z-index: 10;
+    width: 1168px;
+    height: 30px;
+    line-height: 30px;
+    padding: 15px;
+    background: #f5f8fa;
+    border: 1px solid #e1e9ef;
+}
+
+.myreceipt-checks-all {
+    display: inline-block;
+    height: 14px;
+    line-height: 14px;
+    padding-left: 20px;
+    margin-top: 8px;
+}
+
+.myreceipt-checks-all i {
+    display: block;
+    top: 1px;
+    left: 0;
+}
+
+.myreceipt-checks-all.checked i {
+    background-position: 0 -46px;
+}
+
+.myreceipt-deletes-all {
+    margin: 0 20px;
+}
+
+.myreceipt-adddata,
+.myreceipt-adddatas {
+    -moz-transition: ease-out .2s;
+    -o-transition: ease-out .2s;
+    -webkit-transition: ease-out .2s;
+    transition: ease-out .2s;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 0;
+    border: 1px solid #dcdcdc;
+    background: #f5f5f5;
+    width: 88px;
+    height: 24px;
+    line-height: 24px;
+    margin-left: 15px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.myreceipt-adddatas {
+    margin-left: 0;
+}
+
+.myreceipt-settlements li {
+    margin-right: 10px;
+}
+
+.myreceipt-settlements em {
+    color: #e52d88;
+    margin: 0 3px;
+}
+
+.myreceipt-settlements b {
+    color: #e52d88;
+    font-size: 20px;
+    margin: 0 40px;
+    letter-spacing: 1px;
+}
+
+.myreceipt-settlements-btn,
+.myreceipt-settlements-shipping {
+    -moz-transition: ease-out .2s;
+    -o-transition: ease-out .2s;
+    -webkit-transition: ease-out .2s;
+    transition: ease-out .2s;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    background: #bc338b;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    background: #e52d88;
+}
+
+/* ------------------------------------------------- */
+#disappare {
+    /* border: 1px solid #e52d88; */
+    border-radius: 5px;
+    background: #fff;
+    font-size: 20px;
+    width: 520px;
+    height: 90px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -150px;
+    filter: alpha(Opacity=60);
+    -moz-opacity: 0.6;
+    opacity: 0.6;
+    background: #000;
+    color: #fff;
+}
+
+#disappare p {
+    padding: 35px;
+    font-size: 16px;
+}
+
+.b_flow .shopper_n {
+    width: 1190px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+.b_flow .cart_list td {
+    padding: 16px 0;
+    border-bottom: 1px dotted #dbd8d2;
+    text-align: center;
+}
+
+.b_flow .b_pord {
+    width: 300px;
+    overflow: hidden;
+}
+
+.b_flow .b_pord .pic {
+    float: left;
+    width: 58px;
+    height: 58px;
+    border: 1px solid #c8bfbf;
+    margin-right: 12px;
+    overflow: hidden;
+}
+
+.b_flow .b_pord .pord_n,
+.b_flow .b_pord .other {
+    width: 213px;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;
+}
+
+.b_flow .b_pord .pord_n a {
+    text-decoration: none;
+    color: #333;
+}
+
+.b_flow .cart_list td {
+    padding: 16px 0;
+    border-bottom: 1px dotted #dbd8d2;
+    text-align: center;
+}
+
+.b_flow .b_price {
+    height: 48px;
+    line-height: 22px;
+    overflow: hidden;
+}
+
+.b_flow .m_price,
+.b_flow .s_price {
+    color: #999;
+    text-align: center;
+    font: 12px/22px Verdana, Arial, "宋体";
+    font-family: "microsoft yahei";
+    margin: 0;
+}
+
+.cart_storage_tips {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.b_flow .mo_num {
+    width: 86px;
+    height: 22px;
+}
+
+.b_flow .rec,
+.b_flow .add {
+    display: block;
+    float: left;
+    width: 22px;
+    line-height: 20px;
+    height: 22px;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center
+}
+
+.b_flow .num {
+    float: left;
+    width: 42px;
+    height: 22px;
+    font: 14px/22px arial;
+    text-align: center;
+    color: #7b7b7b;
+    border: none;
+    background: none;
+    overflow: hidden;
+}
